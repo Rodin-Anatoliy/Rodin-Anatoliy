@@ -1,10 +1,10 @@
 ### Hi there, I'm Anatoliy 👋
 
 ## I'm a junior Frontend-developer!
-- 🔭 I’m currently working on a course from [Yandex.Praktikum](https://praktikum.yandex.ru/web)!
+- 🔭 I work at [ООО "ЗСП"](https://led-si.com/) until 30.04.21!
 - 🌱 I’m currently learning [React](https://reactjs.org/)
 - 🤔 I’m currently looking for a job
-- 🥅 2020 Goals: learn Scss/Sass, Bootstrap, React, Redux, TypeScript, jQuery
+- 🥅 2021 Goals: React, Redux, TypeScript, Vue, Node
 - ⚡ Fun fact: I like to read science fiction and sometimes write poetry
 
 ### Languages and Tools:
