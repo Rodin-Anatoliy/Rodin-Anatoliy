@@ -1,7 +1,6 @@
 ### Hi there, I'm Anatoliy 👋
 
 ## I'm a junior Frontend-developer!
-- 🔭 I work at [ООО "ЗСП"](https://led-si.com/) until 30.04.21!
 - 🌱 I’m currently learning [React](https://reactjs.org/)
 - 🤔 I’m currently looking for a job
 - 🥅 2021 Goals: React, Redux, TypeScript, Vue, Node
