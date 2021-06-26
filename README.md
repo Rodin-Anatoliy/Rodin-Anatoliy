@@ -1,8 +1,7 @@
 ### Hi there, I'm Anatoliy 👋
 
 ## I'm a junior Frontend-developer!
-- 🌱 I’m currently learning [React](https://reactjs.org/)
-[- 🤔 I’m currently looking for a job](url)
+- 🌱 I’m currently learning [React/TypeScript](https://reactjs.org/)
 - 🥅 2021 Goals: React, Redux, TypeScript, Vue, Node
 - ⚡ Fun fact: I like to read science fiction and sometimes write poetry
 
