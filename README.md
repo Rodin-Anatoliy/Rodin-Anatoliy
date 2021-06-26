@@ -30,5 +30,3 @@
 
 ---
 [![Anatoliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodin-Anatoliy)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="left" alt="Rodin Anatoliy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Rodin-Anatoliy&show_icons=true&hide_border=true" />
