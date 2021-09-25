@@ -2,7 +2,7 @@
 
 ## I'm a Frontend-developer!
 - 🌱 I’m currently learning [React/TypeScript](https://reactjs.org/)
-- 🥅 2021 Goals: React, Redux, TypeScript, Vue, Node
+- 🥅 2021 Goals: Node JS(Express/Nest), Vue
 - ⚡ Fun fact: I like to read science fiction and sometimes write poetry
 
 ### Languages and Tools:
