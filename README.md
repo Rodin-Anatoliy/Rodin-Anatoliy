@@ -17,10 +17,7 @@
 <code><img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png"></code>
 <code><img height="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png"></code>
 
-
 <br />
-
-#
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anatoliy-rodin-bb27a71b4/)
