@@ -24,9 +24,9 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anatoliy-rodin-bb27a71b4/)
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />](https://t.me/ant_rodin)
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />](https://t.me/ant_rodin)  
 
-<br />
+<br />  
 
 | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Rodin-Anatoliy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anatoliy Rodin github stats" /> | <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodin-Anatoliy&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
