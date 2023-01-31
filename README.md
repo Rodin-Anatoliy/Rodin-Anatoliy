@@ -9,13 +9,13 @@
 ### Tools:
 
 <code>[<img img height="30" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" />](https://www.javascript.com/)</code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
-<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
-<code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
-<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png"></code>
-<code><img height="30" src="https://expressjs.com/images/express-facebook-share.png"></code>
-<code><img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png"></code>
-<code><img height="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png"></code>
+<code>[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">](https://www.typescriptlang.org/)</code>
+<code>[<img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg">](https://reactjs.org/)</code>
+<code>[<img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">](https://redux.js.org/)</code>
+<code>[<img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">](https://nodejs.org/)</code>
+<code>[<img height="30" src="https://expressjs.com/images/express-facebook-share.png">](https://expressjs.com/)</code>
+<code>[<img height="30" src="https://i.pinimg.com/originals/c5/73/49/c57349d1de8e1834c3d93a2e8f9ef615.png">](https://www.adobe.com/)</code>
+<code>[<img height="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">](https://www.figma.com/)</code>
 
 <br />
 
