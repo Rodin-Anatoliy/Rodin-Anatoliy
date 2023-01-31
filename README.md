@@ -9,7 +9,9 @@
 ### Tools:
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png"></code>
-[<img img height="30" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" />](https://www.javascript.com/) 
+
+<code>[<img img height="30" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" />](https://www.javascript.com/)</code>
+
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg"></code>
 <code><img height="30" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png"></code>
